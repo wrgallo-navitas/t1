@@ -1,0 +1,5 @@
+.DS_Store
+***/*project_local.xml
+**/*.log
+**/preview-build/
+**/preview-bin/.hash
